@@ -12,7 +12,7 @@ function datapublic_profiles_views_default_views() {
 
   $view = new view;
   $view->name = 'profiles';
-  $view->description = 'Default views for Profile content type nodes.';
+  $view->description = 'Default views for Profile listings.';
   $view->tag = 'content';
   $view->base_table = 'node';
   $view->human_name = 'Profiles';
