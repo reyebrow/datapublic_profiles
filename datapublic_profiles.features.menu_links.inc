@@ -27,7 +27,7 @@ function datapublic_profiles_menu_default_menu_links() {
     'has_children' => '0',
     'expanded' => '0',
     'weight' => '0',
-    'parent_path' => 'node/82',
+    'parent_path' => 'about',
   );
   // Exported menu link: main-menu:staff-directory/leadership
   $menu_links['main-menu:staff-directory/leadership'] = array(
@@ -46,7 +46,7 @@ function datapublic_profiles_menu_default_menu_links() {
     'has_children' => '0',
     'expanded' => '0',
     'weight' => '0',
-    'parent_path' => 'node/82',
+    'parent_path' => 'about',
   );
   // Exported menu link: menu-main-menu-mobile-:staff-directory
   $menu_links['menu-main-menu-mobile-:staff-directory'] = array(
@@ -65,7 +65,7 @@ function datapublic_profiles_menu_default_menu_links() {
     'has_children' => '0',
     'expanded' => '0',
     'weight' => '0',
-    'parent_path' => 'node/82',
+    'parent_path' => 'about',
   );
   // Exported menu link: menu-main-menu-mobile-:staff-directory/leadership
   $menu_links['menu-main-menu-mobile-:staff-directory/leadership'] = array(
@@ -84,7 +84,7 @@ function datapublic_profiles_menu_default_menu_links() {
     'has_children' => '0',
     'expanded' => '0',
     'weight' => '0',
-    'parent_path' => 'node/82',
+    'parent_path' => 'about',
   );
   // Translatables
   // Included for use with string extractors like potx.
